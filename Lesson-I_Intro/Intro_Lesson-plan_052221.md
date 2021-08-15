@@ -55,62 +55,38 @@ Order/flow of lesson - the suggested order of doing things and associated materi
 
 <table>
   <tr>
-   <td>Blocks
-   </td>
-   <td>Time
-   </td>
-   <td>Content
-   </td>
-   <td>Suggested materials
-   </td>
-   <td>Additional resources
-   </td>
+   <td>Blocks</td>
+   <td>Time</td>
+   <td>Content</td>
+   <td>Suggested materials</td>
+   <td>Additional resources</td>
   </tr>
   <tr>
-   <td rowspan="3" >30 minutes
-   </td>
-   <td>5 minutes
-   </td>
-   <td>Overview of the lesson and ‘things you should know’
-   </td>
-   <td>PPT
-   </td>
-   <td>
-   </td>
+   <td rowspan="3" >30 minutes</td>
+   <td>5 minutes</td>
+   <td>Overview of the lesson and ‘things you should know’</td>
+   <td>PPT</td>
+   <td></td>
   </tr>
   <tr>
-   <td>10 minutes
-   </td>
-   <td>The importance of communication in scientific progress
-   </td>
-   <td>PPT
-   </td>
-   <td><a href="www.connectedpapers.com">www.connectedpapers.com</a>
-   </td>
+   <td>10 minutes</td>
+   <td>The importance of communication in scientific progress</td>
+   <td>PPT</td>
+   <td><a href="www.connectedpapers.com">www.connectedpapers.com</a></td>
   </tr>
   <tr>
-   <td>10 minutes
-   </td>
-   <td>The history of scientific communication and the traditional, journal-based publication process works
-   </td>
+   <td>10 minutes</td>
+   <td>The history of scientific communication and the traditional, journal-based publication process works</td>
    <td>PPT
-<p>
-Manuscript lifecycle illustration_V1
-   </td>
-   <td>
-   </td>
+       <p>Manuscript lifecycle illustration_V1</p></td>
+   <td></td>
   </tr>
   <tr>
-   <td rowspan="3" >30 minutes
-   </td>
-   <td>10 minutes
-   </td>
-   <td>Challenges within the current publication system
-   </td>
+   <td rowspan="3" >30 minutes</td>
+   <td>10 minutes</td>
+   <td>Challenges within the current publication system</td>
    <td>PPT
-<p>
-Manuscript lifecycle illustration_V1
-   </td>
+       <p>Manuscript lifecycle illustration_V1</p></td>
    <td>
    </td>
   </tr>
@@ -120,8 +96,7 @@ Manuscript lifecycle illustration_V1
    <td>Emerging solutions and innovations in scientific communication
    </td>
    <td>PPT
-<p>
-Manuscript lifecycle illustration_V2
+<p>Manuscript lifecycle illustration_V2
    </td>
    <td>
    </td>
