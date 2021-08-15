@@ -96,7 +96,7 @@ Order/flow of lesson - the suggested order of doing things and associated materi
    <td>Emerging solutions and innovations in scientific communication
    </td>
    <td>PPT
-<p>Manuscript lifecycle illustration_V2
+       <p>Manuscript lifecycle illustration_V2</p>
    </td>
    <td>
    </td>
