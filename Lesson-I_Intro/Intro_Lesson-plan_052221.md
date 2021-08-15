@@ -28,8 +28,8 @@
     4. Transitioning: Integration of new approaches with the traditional, journal-dependent publication process
 6. **Introduction to the lessons of the course**
 7. **Discussion #1:** What has your experience been (good and bad) with the traditional, journal-based process?
-8. **Discussion #2: **How might you design a communication process to advance scientific progress?**  **
-9. **Brief Survey *****_Under Construction_***
+8. **Discussion #2:** How might you design a communication process to advance scientific progress?**  **
+9. **Brief Survey _Under Construction_
 
 **Materials:**
 
@@ -42,7 +42,7 @@
     1. Purpose: Visual aid to introduce the current publication process and broad topics of course. V2 presents preprinting and additional innovations as additional steps in the process.
     2. V1 Description: Visualization of the traditional, journal-based publication process: ![Journal_based_publication](Intro_Manuscript-lifecycle_V1.png "Journal_based_publication")
     3. V2 Description: Preprinting + the traditional, journal-based publication process:![Preprinting & the traditional](Intro_Manuscript-lifecycle_V2.png "Preprinting & the traditional")
-3. Brief Survey ***_Under Construction_***
+3. Brief Survey _Under Construction_
     * Purpose: To assess understanding of the major concepts introduced in the lesson
 
 **Lesson plan (~75 minutes):**
@@ -174,7 +174,7 @@ Manuscript lifecycle illustration_V2
 
 1. Discussion #1: What has your experience been (good and bad) with the traditional, journal-based process?
 2. Discussion #2: How might you design a communication process to advance scientific progress?
-3. Brief Survey ***_Under Construction_***
+3. Brief Survey _Under Construction_
 
 **Resources:**
 
