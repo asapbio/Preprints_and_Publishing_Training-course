@@ -59,7 +59,7 @@ Lessons should take approximately 2 hours for material delivery and completion o
    </td>
    <td>ASAPBio website,
 <p>
-Example websites
+    Example websites</p>
    </td>
   </tr>
   <tr>
@@ -67,7 +67,7 @@ Example websites
    </td>
    <td>(A, B, C) Explore the role of scicomm as part of being a scientist and why you should communicate your own science.
 <p>
-Explore how to utilise different platforms and adapt content for specific audiences and how and when use each platform
+Explore how to utilise different platforms and adapt content for specific audiences and how and when use each platform</p>
    </td>
    <td>Infographic ”why scicomm?”, Discussion topic “whose responsibility is scientific communication?”,
    </td>
@@ -83,7 +83,7 @@ Explore how to utilise different platforms and adapt content for specific audien
    </td>
    <td>Guiding principles link
 <p>
-Preprints and the media link
+    Preprints and the media link</p>
    </td>
   </tr>
   <tr>
@@ -91,25 +91,25 @@ Preprints and the media link
    </td>
    <td>(A, B, C, D) Discuss and evaluate how to responsibly share work from other scientists, particularly in relation to flawed science and responsible sharing.
 <p>
-Sharing work responsibly
+Sharing work responsibly</p>
 <p>
-How to share other people's work
+How to share other people's work</p>
 <p>
-Why share work of others
+Why share work of others</p>
 <p>
-What is responsible sharing and how to do it
+What is responsible sharing and how to do it</p>
 <p>
-Calling out bad science / misinformation
+Calling out bad science / misinformation</p>
 <p>
-Sharing preprints and other non-peer reviewed material
+Sharing preprints and other non-peer reviewed material</p>
    </td>
    <td>“Sharing responsibly” infographic, “Types of scientific publication and how to read them” infographic. “Example” twitter threads.
 <p>
-Practical exercises or discussions around examples.
+Practical exercises or discussions around examples.</p>
    </td>
    <td>Page 29 in “On being a scientist A guide to responsible conduct in research”
 <p>
-COVID vaccine communication handbook
+COVID vaccine communication handbook</p>
    </td>
   </tr>
   <tr>
@@ -117,7 +117,7 @@ COVID vaccine communication handbook
    </td>
    <td>Summarise the key points and review the role of scicomm in being a scientist.
 <p>
-Summarise the different platforms available and when each should be used
+Summarise the different platforms available and when each should be used</p>
    </td>
    <td>
    </td>
