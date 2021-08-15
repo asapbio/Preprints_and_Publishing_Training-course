@@ -47,7 +47,10 @@
 
 **Lesson plan (~75 minutes):**
 
+
+
 Order/flow of lesson - the suggested order of doing things and associated materials for each section. Blocks are suggested for lessons with shorter durations (~30 mins).
+
 
 
 <table>
@@ -168,6 +171,7 @@ Manuscript lifecycle illustration_V2
 </table>
 
 
+
 **Reflection:**
 
 
@@ -189,6 +193,8 @@ Manuscript lifecycle illustration_V2
 7. [https://doi.org/10.3389/fncom.2012.00019](https://doi.org/10.3389/fncom.2012.00019)
 
 **Author:**
+
+
 
 Tara Fischer
 
