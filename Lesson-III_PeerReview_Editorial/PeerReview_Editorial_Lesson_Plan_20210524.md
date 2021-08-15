@@ -92,7 +92,7 @@ Order/flow of lesson, the suggested order of doing things and associated materia
    </td>
    <td>PPT
 <p>
-Reviewer oath
+    Reviewer oath</p>
    </td>
    <td>
    </td>
