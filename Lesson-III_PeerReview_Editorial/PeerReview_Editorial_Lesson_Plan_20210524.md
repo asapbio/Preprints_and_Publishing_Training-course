@@ -130,14 +130,14 @@ Order/flow of lesson, the suggested order of doing things and associated materia
 </table>
 
 
-**Reflection: **
+**Reflection:**
 
 
 
 *   Concerning the manuscript lifecycle, what are the benefits of adopting preprints?
 *   Why would a journal have an editorial board? What do you think are the biggest challenges a scientific editor faces when handling manuscripts?
 
-**Resources: **
+**Resources:**
 
 The Editorial Process
 
