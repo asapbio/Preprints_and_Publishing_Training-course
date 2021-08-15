@@ -79,7 +79,7 @@ Order/flow of lesson, the suggested order of doing things and associated materia
    </td>
    <td>PPT
 <p>
-<a href="https://asapbio.org/wp-content/uploads/2020/12/ASAPbio-what-are-preprints-english.pdf">Infographic_What are preprints?</a>
+<a href="https://asapbio.org/wp-content/uploads/2020/12/ASAPbio-what-are-preprints-english.pdf">Infographic_What are preprints?</a></p>
    </td>
   </tr>
   <tr>
@@ -89,9 +89,9 @@ Order/flow of lesson, the suggested order of doing things and associated materia
    </td>
    <td>PPT
 <p>
-<a href="https://asapbio.org/wp-content/uploads/2021/01/ASAPbio-fact-check-preprints-english-v2.pdf">Infographic_Fact check preprints</a>
+<a href="https://asapbio.org/wp-content/uploads/2021/01/ASAPbio-fact-check-preprints-english-v2.pdf">Infographic_Fact check preprints</a></p>
 <p>
-<a href="https://asapbio.org/wp-content/uploads/2020/12/ASAPbio-preprints-visibility-english.pdf">Infographic_Preprints visibility</a>
+<a href="https://asapbio.org/wp-content/uploads/2020/12/ASAPbio-preprints-visibility-english.pdf">Infographic_Preprints visibility</a></p>
    </td>
   </tr>
   <tr>
@@ -101,7 +101,7 @@ Order/flow of lesson, the suggested order of doing things and associated materia
    </td>
    <td>PPT
 <p>
-<a href="https://asapbio.org/licensing-faq/licensing-diagram-v2019-08-04">Infographic_Licenses: How Open is your preprint?</a>
+<a href="https://asapbio.org/licensing-faq/licensing-diagram-v2019-08-04">Infographic_Licenses: How Open is your preprint?</a></p>
    </td>
   </tr>
   <tr>
@@ -119,7 +119,7 @@ Order/flow of lesson, the suggested order of doing things and associated materia
    </td>
    <td>PPT
 <p>
-Guidelines for Preprints
+    Guidelines for Preprints</p>
    </td>
   </tr>
 </table>
