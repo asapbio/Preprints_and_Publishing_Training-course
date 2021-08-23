@@ -121,6 +121,8 @@ Following the completion of this course students should be able to:
 Each lesson is planned for 1-2 hours and can be administered “workshop” style over 4 subsequent days in one week or 1 day/week over a 4-week period. Alternatively, each lesson can be divided into 30 minute ‘blocks’ for adaptation to shorter course times.
 
 
-# ASAPbio Community Feedback Form
+# ASAPbio Community Feedback
 
-XXX
+We value community feedback. Please ask any question or make any comments through the GitHub discussion found at this link: <a href="https://github.com/asapbio/Preprints_and_Publishing_Training-course/discussions">Community Discussions</a>
+
+You can learn more about ASAPbio <a href="https://asapbio.org/">here</a> and <a href="https://asapbio.org/preprint-info/preprint-faq">FAQs on preprints</a>. You can also check out the <a href="https://asapbio.org/fellows">ASAPbio Fellows Program</a>.
